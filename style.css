@@ -51,8 +51,8 @@ body {
     background-attachment: fixed;
     background-repeat: repeat-x;
 
-    font-family: 'Press Start 2P', cursive, sans-serif;
-    /* 像素字體 */
+    font-family: 'Press Start 2P', -apple-system, BlinkMacSystemFont, 'Microsoft JhengHei', 'PingFang TC', 'Heiti TC', sans-serif;
+    /* 像素字體 + 中文黑體 */
 
     display: flex;
     justify-content: center;
