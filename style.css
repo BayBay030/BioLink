@@ -8,9 +8,9 @@
     /* 網頁背景色 (淺粉紅) */
     --window-bg: #ffeef5;
     /* 視窗背景色 (更淺的粉紅) */
-    --border-color: #ff8eb2;
+    --border-color: #ff8ed4;
     /* 邊框、陰影和裝飾線條顏色 */
-    --text-color: #ff6b95;
+    --text-color: #ff8ed4;
     /* 文字顏色 */
 
     /* 按鈕互動顏色 */
@@ -64,9 +64,6 @@ body {
     /* 允許上下捲動 */
     padding-top: var(--spacing-top);
     padding-bottom: var(--spacing-bottom);
-
-    touch-action: none;
-    /* 防止手機上拖曳畫面 */
 }
 
 /* 主視窗樣式 (Windows 95/98 風格) */
